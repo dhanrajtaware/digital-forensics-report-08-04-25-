@@ -84,7 +84,6 @@ This investigation is based on publicly accessible information and OSINT tools. 
 ---
 
 ## 📬 Contact & Attribution
-
-Investigation by: [Your Name or Team]  
+  
 Tools: SpiderFoot, WHOIS, Tor OSINT, CSV parsers, manual correlation  
-Date: `May 2025`
+Date: `April 2025`
